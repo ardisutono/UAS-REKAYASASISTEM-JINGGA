@@ -1,0 +1,4 @@
+#Mon Dec 21 16:55:01 ICT 2020
+base.0=C\:\\Users\\user\\Downloads\\todo-list-app-master\\todo-list-app-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

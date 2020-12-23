@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-658314208/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-658314208/@react-native-community_async-storage.iml" group="todolist/@react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="todolist/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-469434948/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-469434948/react-native-vector-icons.iml" group="todolist/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todolist.iml" filepath="$PROJECT_DIR$/.idea/modules/todolist.iml" group="todolist" />
+    </modules>
+  </component>
+</project>
